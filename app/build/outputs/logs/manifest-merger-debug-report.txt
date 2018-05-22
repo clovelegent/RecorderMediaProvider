@@ -1,0 +1,62 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidStudioProjects\RecorderMediaProvider\app\src\main\AndroidManifest.xml:1:1-21:12
+INJECTED from D:\AndroidStudioProjects\RecorderMediaProvider\app\src\main\AndroidManifest.xml:1:1-21:12
+INJECTED from D:\AndroidStudioProjects\RecorderMediaProvider\app\src\main\AndroidManifest.xml:1:1-21:12
+INJECTED from D:\AndroidStudioProjects\RecorderMediaProvider\app\src\main\AndroidManifest.xml:1:1-21:12
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\30dc84f236efa4444b9b581573d12503\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\AndroidStudioProjects\RecorderMediaProvider\app\src\main\AndroidManifest.xml:1:1-21:12
+INJECTED from D:\AndroidStudioProjects\RecorderMediaProvider\app\src\main\AndroidManifest.xml:1:1-21:12
+INJECTED from D:\AndroidStudioProjects\RecorderMediaProvider\app\src\main\AndroidManifest.xml:1:1-21:12
+	package
+		ADDED from D:\AndroidStudioProjects\RecorderMediaProvider\app\src\main\AndroidManifest.xml:2:5-47
+		INJECTED from D:\AndroidStudioProjects\RecorderMediaProvider\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\RecorderMediaProvider\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\AndroidStudioProjects\RecorderMediaProvider\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from D:\AndroidStudioProjects\RecorderMediaProvider\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\RecorderMediaProvider\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidStudioProjects\RecorderMediaProvider\app\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from D:\AndroidStudioProjects\RecorderMediaProvider\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from D:\AndroidStudioProjects\RecorderMediaProvider\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\RecorderMediaProvider\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\AndroidStudioProjects\RecorderMediaProvider\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from D:\AndroidStudioProjects\RecorderMediaProvider\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from D:\AndroidStudioProjects\RecorderMediaProvider\app\src\main\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\30dc84f236efa4444b9b581573d12503\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\30dc84f236efa4444b9b581573d12503\AndroidManifest.xml:20:5-43
+INJECTED from D:\AndroidStudioProjects\RecorderMediaProvider\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from D:\AndroidStudioProjects\RecorderMediaProvider\app\src\main\AndroidManifest.xml:6:5-8:41
+	android:targetSdkVersion
+		ADDED from D:\AndroidStudioProjects\RecorderMediaProvider\app\src\main\AndroidManifest.xml:8:9-38
+		INJECTED from D:\AndroidStudioProjects\RecorderMediaProvider\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\RecorderMediaProvider\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\AndroidStudioProjects\RecorderMediaProvider\app\src\main\AndroidManifest.xml:7:9-35
+		INJECTED from D:\AndroidStudioProjects\RecorderMediaProvider\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\RecorderMediaProvider\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\AndroidStudioProjects\RecorderMediaProvider\app\src\main\AndroidManifest.xml:10:5-19:19
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\30dc84f236efa4444b9b581573d12503\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\30dc84f236efa4444b9b581573d12503\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from D:\AndroidStudioProjects\RecorderMediaProvider\app\src\main\AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from D:\AndroidStudioProjects\RecorderMediaProvider\app\src\main\AndroidManifest.xml:12:9-45
+	android:allowBackup
+		ADDED from D:\AndroidStudioProjects\RecorderMediaProvider\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from D:\AndroidStudioProjects\RecorderMediaProvider\app\src\main\AndroidManifest.xml:14:9-40
+provider#com.sorfsz.recordermediaprovider.RecorderMediaProvider
+ADDED from D:\AndroidStudioProjects\RecorderMediaProvider\app\src\main\AndroidManifest.xml:15:9-18:42
+	android:process
+		ADDED from D:\AndroidStudioProjects\RecorderMediaProvider\app\src\main\AndroidManifest.xml:18:13-40
+	android:authorities
+		ADDED from D:\AndroidStudioProjects\RecorderMediaProvider\app\src\main\AndroidManifest.xml:16:13-81
+	android:exported
+		ADDED from D:\AndroidStudioProjects\RecorderMediaProvider\app\src\main\AndroidManifest.xml:17:13-36
+	android:name
+		ADDED from D:\AndroidStudioProjects\RecorderMediaProvider\app\src\main\AndroidManifest.xml:15:19-88

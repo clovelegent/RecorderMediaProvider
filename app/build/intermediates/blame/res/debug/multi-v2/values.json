@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\AndroidStudioProjects\\RecorderMediaProvider\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\AndroidStudioProjects\\RecorderMediaProvider\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "19",
+                        "endColumns": "58",
+                        "endOffsets": "73"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidStudioProjects\\RecorderMediaProvider\\app\\src\\main\\res\\values\\defaults.xml",
+                    "from": {
+                        "startLines": "4,9,15,13,2,7,5,11",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "204,463,712,633,116,374,255,538",
+                        "endColumns": "49,47,45,42,50,47,54,47",
+                        "endOffsets": "249,506,753,671,162,417,305,581"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "114,164,212,258,301,352,400,455",
+                        "endColumns": "49,47,45,42,50,47,54,47",
+                        "endOffsets": "159,207,253,296,347,395,450,498"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidStudioProjects\\RecorderMediaProvider\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "11,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "503,794",
+                        "endLines": "17,20",
+                        "endColumns": "12,12",
+                        "endOffsets": "789,949"
+                    }
+                }
+            ]
+        }
+    ]
+}
